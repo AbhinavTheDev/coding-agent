@@ -24,6 +24,16 @@
   <img src="https://img.shields.io/badge/LangChain-green" alt="langchain" />
 </p>
 
+## Star History
+
+<a href="https://www.star-history.com/#abhinavthedev/coding-agent&Timeline">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=abhinavthedev/coding-agent&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=abhinavthedev/coding-agent&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=abhinavthedev/coding-agent&type=Timeline" />
+ </picture>
+</a>
+
 ### :outbox_tray: Set up
 
 #### **Setting Up the Agent and UI**
