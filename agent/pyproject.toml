@@ -5,10 +5,6 @@ description = "Starter"
 authors = ["Ariel Weinberger <weinberger.ariel@gmail.com>"]
 license = "MIT"
 
-[project]
-name = "greeter"
-version = "0.0.1"
-
 [build-system]
 requires = ["setuptools >= 61.0"]
 build-backend = "setuptools.build_meta"
